@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.env
+
+**/code_test/
+**/recordings/
+**/recordings_lite/
